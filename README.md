@@ -1,1 +1,4 @@
-# -sivukai--sezemi-2015-readable-code
+## 開発言語
+*PHP
+## エディター
+Sublime Text 2
