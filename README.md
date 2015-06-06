@@ -6,10 +6,10 @@ Sublime Text 2
 
 ## プログラム利用方法
 
-1. 任意のディレクトリにrecipe.phpを格納
+1. 任意のディレクトリにtaskファイルを格納
 2. コンソールで以下のコマンドを打つ
 
 ```
-cd recipe.phpの格納先のフォルダパス
+cd taskファイルの格納先のフォルダパス/spec1
 php recipe.php
 ```
