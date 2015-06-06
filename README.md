@@ -10,6 +10,6 @@ Sublime Text 2
 2. コンソールで以下のコマンドを打つ
 
 ```
-cd 任意のディレクトリ
+cd recipe.phpの格納先のフォルダパス
 php recipe.php
 ```
