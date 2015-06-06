@@ -1,4 +1,4 @@
 ## 開発言語
-*PHP
+PHP
 ## エディター
 Sublime Text 2
