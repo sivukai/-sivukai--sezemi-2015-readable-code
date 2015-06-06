@@ -10,6 +10,6 @@ Sublime Text 2
 2. コンソールで以下のコマンドを打つ
 
 ```
-cd taskファイルの格納先のフォルダパス/spec1
+cd taskファイルの格納先のフォルダパス
 php recipe.php
 ```
